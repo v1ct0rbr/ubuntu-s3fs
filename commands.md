@@ -1,0 +1,1 @@
+docker build -t <NOME_DA_IMAGEM> --no-cache
